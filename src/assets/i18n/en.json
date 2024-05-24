@@ -1,0 +1,33 @@
+{
+  "AUTH": {
+    "FORGOT_PASS": {
+      "EMAIL":"Email",
+      "INSERT_EMAIL":"Enter your email",
+      "SEND":"Send"
+    },
+    "HOME": {
+      "ALREADY_REGISTERED": "I already have an account",
+      "NOT_REGISTERED_YET": "I'm not registered yet"
+    },
+    "LOGIN": {
+      "EMAIL":"Email",
+      "INSERT_EMAIL":"Enter your email",
+      "INSERT_PASSWORD":"Enter your password",
+      "PASSWORD":"Password",
+      "":"Sign In",
+      "FORGOT_PASS":"Forgot Password?"
+    },
+    "SIGNUP": {
+      "EMAIL":"Email",
+      "INSERT_EMAIL":"Enter your email",
+      "INSERT_PASSWORD":"Enter your password",
+      "PASSWORD":"Password",
+      "":"Sign Up",
+      "ALREADY_REGISTERED":"Already have an account? Click here."
+    }
+  },
+  "DASHBOARD": {},
+  "EN": "English",
+  "ES": "Spanish",
+  "PT": "Portuguese"
+}

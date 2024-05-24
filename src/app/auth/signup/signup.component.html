@@ -1,0 +1,12 @@
+<form (ngSubmit)="signup()">
+  <div>
+    <label for="username">{{'AUTH.SIGNUP.EMAIL' | translate }}</label>
+    <input type="text" name="email" [(ngModel)]="email" required [placeholder]="'AUTH.SIGNUP.INSERT_EMAIL' | translate ">
+  </div>
+  <div>
+    <label for="password">{{'AUTH.SIGNUP.PASSWORD' | translate }}</label>
+    <input type="password" name="password" [(ngModel)]="password" required [placeholder]="'AUTH.SIGNUP.INSERT_PASSWORD' | translate ">
+  </div>
+  <button type="submit">{{'AUTH.SIGNUP.' | translate }}</button>
+  <a (click)="alreadyRegistered()"> {{ "AUTH.SIGNUP.ALREADY_REGISTERED" | translate }}</a>
+</form>

@@ -1,0 +1,33 @@
+{
+  "AUTH": {
+    "FORGOT_PASS": {
+      "EMAIL":"Email",
+      "INSERT_EMAIL":"Insira seu email",
+      "SEND":"Enviar"
+    },
+    "HOME": {
+      "ALREADY_REGISTERED": "Já tenho cadastro",
+      "NOT_REGISTERED_YET": "Ainda não sou cadastrado"
+    },
+    "LOGIN": {
+      "EMAIL":"Email",
+      "INSERT_EMAIL":"Insira seu email",
+      "INSERT_PASSWORD":"Insira sua senha",
+      "PASSWORD":"Senha",
+      "": "Entrar",
+      "FORGOT_PASS":"Esqueci minha senha"
+    },
+    "SIGNUP": {
+      "EMAIL":"Email",
+      "INSERT_EMAIL":"Insira seu email",
+      "INSERT_PASSWORD":"Insira sua senha",
+      "PASSWORD":"Senha",
+      "": "Cadastrar",
+      "ALREADY_REGISTERED":"Já tem cadastro? Clique aqui."
+    }
+  },
+  "DASHBOARD": {},
+  "EN": "Inglês",
+  "ES": "Espanhol",
+  "PT": "Português"
+}
